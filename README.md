@@ -68,6 +68,4 @@ It analyzes job postings to provide insights about **skills demand, job location
 ## 🔹 Author  
 👩‍💻 **Shrutika Kamble**  
 - 📌 *Computer Science Engineering Student | Data Analytics Enthusiast*  
-- 🔗 [LinkedIn Profile](www.linkedin.com/in/shrutika-kamble-9522221ab)  
-
----
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shrutika-kamble-9522221ab)  
