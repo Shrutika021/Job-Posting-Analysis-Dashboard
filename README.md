@@ -58,7 +58,8 @@ It analyzes job postings to provide insights about **skills demand, job location
 - Columns: Job ID, Job Title, Skills, Company, Location, Country, Posting Date, etc.
   ## 🔹 Output / Snapshots  
 📌  ![image alt](https://github.com/Shrutika021/Job-Posting-Analysis-Dashboard/blob/main/2025-08-22%20(1).png?raw=true)
-
+     ![image alt](https://github.com/Shrutika021/Job-Posting-Analysis-Dashboard/blob/main/2025-08-22%20(2).png?raw=true)
+     
 ---
 ## 🔹 How to Run the Project  
 1. Clone this repository.  
