@@ -55,7 +55,9 @@ It analyzes job postings to provide insights about **skills demand, job location
 ## 🔹 Dataset  
 - Dataset Name: **Job Posting Dataset**  
 - Source: Kaggle / Mock Data / ChatGpt
-- Columns: Job ID, Job Title, Skills, Company, Location, Country, Posting Date, etc.  
+- Columns: Job ID, Job Title, Skills, Company, Location, Country, Posting Date, etc.
+  ## 🔹 Output / Snapshots  
+📌  
 
 ---
 ## 🔹 How to Run the Project  
